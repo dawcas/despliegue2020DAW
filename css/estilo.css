@@ -52,12 +52,6 @@ section > p {
     text-align: center;
 }
 
-/*
-section article {
-    flex: 1;
-}
-*/
-
 footer {
     background-image: url('../imagenes/fondo2.jpg');
     width: 100%;
@@ -75,8 +69,8 @@ footer > img {
 
 .bar {
     background-repeat: no-repeat;
-    background-size: cover;
     background-position: 0% 80%;
+    background-size: cover;
     padding-top: 1em;
     padding-bottom: 1em;
 }
