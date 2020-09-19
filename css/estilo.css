@@ -97,10 +97,10 @@ footer > img {
 }
 
 #cita {
-    font-family: citaFont;
+    font-family: fuenteCita;
 }
 
 @font-face {
-    font-family: citaFont;
+    font-family: fuenteCita;
     src: url('../fonts/caveat.woff2') format('woff2');
 }
